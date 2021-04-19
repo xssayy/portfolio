@@ -4,6 +4,7 @@ body {
     font-family: 'Heebo', sans-serif;
     font-weight: 400;
     color: #21243D;
+    font-style: normal;
 }
 p,h1, h2, h3, h4, h5, h6 {
     margin: 0;
@@ -14,4 +15,7 @@ a {
 .container {
     margin: 0 auto;
     max-width: 856px;
+}
+img {
+    max-width: 100%;
 }
